@@ -1,0 +1,14 @@
+.Body{
+    background-color: #008cff;
+    min-height: calc(100vh - 70px);
+
+    display: flex;
+    flex-direction: column;
+   
+    align-items: center;
+}
+
+.titulo2{
+    border: solid 1px #ff4ef0;
+    margin: 10px 0 10px 0;
+}
